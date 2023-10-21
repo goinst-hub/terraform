@@ -1,4 +1,4 @@
-schema_version = 1
+ goinst-hub schema_version = 1.0
 
 project {
   license        = "BUSL-1.1"
